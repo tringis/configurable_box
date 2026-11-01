@@ -10,6 +10,8 @@ Use it to generate pencil boxes, soap boxes, a deckbox, any box you need!
 * Height of the lip (aka "overlap") and ratio of lip to wall thickness
 * Radius of the curved edges
 * Tolerance
+* Optional pattern of circular holes in the bottom of the base and/or the top of the lid
+  (square or hexagonal grid, with configurable hole diameter, spacing and margin)
 
 ## Example
 
